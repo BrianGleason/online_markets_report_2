@@ -1,0 +1,55 @@
+
+DomStr_EWEW_0.5_0.5.png, alg1: 0.3
+DomStr_EWEW_0.5_0.5.png, alg2: 0.3
+DomStr_EWEW_0.1_1.0.png, alg1: 0.7
+DomStr_EWEW_0.1_1.0.png, alg2: 0.1
+DomStr_EWFTL_1.0_inf (FTL).png, alg1: 0.3
+DomStr_EWFTL_1.0_inf (FTL).png, alg2: 0.0
+DomStr_EWEW_0_1.0.png, alg1: 0.8
+DomStr_EWEW_0_1.0.png, alg2: 0.3
+Pure Nash_EWEW_0.5_0.5.png, alg1: 0.6
+Pure Nash_EWEW_0.5_0.5.png, alg2: 0.5
+Pure Nash_EWEW_0.1_1.0.png, alg1: 1.0
+Pure Nash_EWEW_0.1_1.0.png, alg2: 0.4
+Pure Nash_EWFTL_0.1_inf (FTL).png, alg1: 0.0
+Pure Nash_EWFTL_0.1_inf (FTL).png, alg2: 0.2
+Pure Nash_EWEW_0_1.0.png, alg1: 0.7
+Pure Nash_EWEW_0_1.0.png, alg2: 0.5
+Mix Nash_EWEW_0.5_0.5.png, alg1: 0.8741895309188061
+Mix Nash_EWEW_0.5_0.5.png, alg2: 1.0116734166956458
+Mix Nash_EWEW_0.1_1.0.png, alg1: 0.9870260954432399
+Mix Nash_EWEW_0.1_1.0.png, alg2: 0.8918917063907437
+Mix Nash_EWFTL_1.0_inf (FTL).png, alg1: 0.7666120144684581
+Mix Nash_EWFTL_1.0_inf (FTL).png, alg2: 0.8212776067139398
+Mix Nash_EWEW_0_1.0.png, alg1: 0.9416043589000577
+Mix Nash_EWEW_0_1.0.png, alg2: 0.9495599774303429
+Any Nash_EWEW_0.5_0.5.png, alg1: 0.6
+Any Nash_EWEW_0.5_0.5.png, alg2: 0.5
+Any Nash_EWEW_0.1_1.0.png, alg1: 0.9705208981436998
+Any Nash_EWEW_0.1_1.0.png, alg2: 0.3884269298656388
+Any Nash_EWFTL_1.0_inf (FTL).png, alg1: 0.545757605885862
+Any Nash_EWFTL_1.0_inf (FTL).png, alg2: 0.14869797721460126
+Any Nash_EWEW_0_1.0.png, alg1: 0.8954022988505747
+Any Nash_EWEW_0_1.0.png, alg2: 0.3621621621621621
+Pr Dil_EWEW_0.5_0.5.png, alg1: 0.5
+Pr Dil_EWEW_0.5_0.5.png, alg2: 0.2
+Pr Dil_EWEW_0.1_1.0.png, alg1: 0.3
+Pr Dil_EWEW_0.1_1.0.png, alg2: 0.2
+Pr Dil_EWFTL_1.0_inf (FTL).png, alg1: 0.1
+Pr Dil_EWFTL_1.0_inf (FTL).png, alg2: 0.0
+Pr Dil_EWEW_0_1.0.png, alg1: 0.5
+Pr Dil_EWEW_0_1.0.png, alg2: 0.2
+Dom Str_MABMAB_0.5_0.5.png, alg1: 1.0
+Dom Str_MABMAB_0.5_0.5.png, alg2: 1.2
+Dom Str_MABMAB_0.1_1.0.png, alg1: 1.1
+Dom Str_MABMAB_0.1_1.0.png, alg2: 1.0
+Dom Str_MABFTL_1.0_inf (FTL).png, alg1: 1.2
+Dom Str_MABFTL_1.0_inf (FTL).png, alg2: 0.0
+Dom Str_MABMAB_0_1.0.png, alg1: 0.8
+Dom Str_MABMAB_0_1.0.png, alg2: 1.0
+Pure Nash_MABMAB_0.5_0.5.png, alg1: 1.1
+Pure Nash_MABMAB_0.5_0.5.png, alg2: 0.8
+Pure Nash_MABMAB_0.1_1.0.png, alg1: 0.8
+Pure Nash_MABMAB_0.1_1.0.png, alg2: 1.0
+Pure Nash_MABFTL_1.0_inf (FTL).png, alg1: 1.1
+Pure Nash_MABFTL_1.0_inf (FTL).png, alg2: 0.3
