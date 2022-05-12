@@ -53,3 +53,97 @@ Pure Nash_MABMAB_0.1_1.0.png, alg1: 0.8
 Pure Nash_MABMAB_0.1_1.0.png, alg2: 1.0
 Pure Nash_MABFTL_1.0_inf (FTL).png, alg1: 1.1
 Pure Nash_MABFTL_1.0_inf (FTL).png, alg2: 0.3
+DomStr_EWEW_0.5_0.5.png, alg1: 0.016439999999999996
+DomStr_EWEW_0.5_0.5.png, alg2: 0.019159999999999993
+DomStr_EWEW_0.1_1.0.png, alg1: 0.07216
+DomStr_EWEW_0.1_1.0.png, alg2: 0.004080000000000001
+DomStr_EWFTL_1.0_inf (FTL).png, alg1: 0.02871999999999998
+DomStr_EWFTL_1.0_inf (FTL).png, alg2: 0.0
+DomStr_EWEW_0_1.0.png, alg1: 0.9905200000000008
+DomStr_EWEW_0_1.0.png, alg2: 0.0003600000000000001
+Pure Nash_EWEW_0.5_0.5.png, alg1: 0.016239999999999994
+Pure Nash_EWEW_0.5_0.5.png, alg2: 0.012028571428571427
+Pure Nash_EWEW_0.1_1.0.png, alg1: 0.05189246753246748
+Pure Nash_EWEW_0.1_1.0.png, alg2: 0.03211999999999999
+Pure Nash_EWFTL_0.1_inf (FTL).png, alg1: 0.0072
+Pure Nash_EWFTL_0.1_inf (FTL).png, alg2: 0.002
+Pure Nash_EWEW_0_1.0.png, alg1: 0.919597735187389
+Pure Nash_EWEW_0_1.0.png, alg2: 0.2881733333333334
+Mix Nash_EWEW_0.5_0.5.png, alg1: 0.4253902279882111
+Mix Nash_EWEW_0.5_0.5.png, alg2: 0.42387568530937864
+Mix Nash_EWEW_0.1_1.0.png, alg1: 0.28425298144208844
+Mix Nash_EWEW_0.1_1.0.png, alg2: 0.5288270294542836
+Mix Nash_EWFTL_1.0_inf (FTL).png, alg1: 0.450922521593311
+Mix Nash_EWFTL_1.0_inf (FTL).png, alg2: 0.5129439983739663
+Mix Nash_EWEW_0_1.0.png, alg1: 0.45645449601024285
+Mix Nash_EWEW_0_1.0.png, alg2: 0.9898919006511173
+Any Nash_EWEW_0.5_0.5.png, alg1: 0.06146016818534966
+Any Nash_EWEW_0.5_0.5.png, alg2: 0.07241710822202245
+Any Nash_EWEW_0.1_1.0.png, alg1: 0.08072620956993154
+Any Nash_EWEW_0.1_1.0.png, alg2: 0.10268596252398027
+Any Nash_EWFTL_1.0_inf (FTL).png, alg1: 0.06096150866184486
+Any Nash_EWFTL_1.0_inf (FTL).png, alg2: 0.07078136260135606
+Any Nash_EWEW_0_1.0.png, alg1: 0.8613203045235875
+Any Nash_EWEW_0_1.0.png, alg2: 0.42985534119583135
+Pr Dil_EWEW_0.5_0.5.png, alg1: 0.09972
+Pr Dil_EWEW_0.5_0.5.png, alg2: 0.09788000000000005
+Pr Dil_EWEW_0.1_1.0.png, alg1: 0.2972800000000005
+Pr Dil_EWEW_0.1_1.0.png, alg2: 0.0
+Pr Dil_EWFTL_1.0_inf (FTL).png, alg1: 0.24635999999999986
+Pr Dil_EWFTL_1.0_inf (FTL).png, alg2: 0.0
+Pr Dil_EWEW_0_1.0.png, alg1: 0.9552799999999992
+Pr Dil_EWEW_0_1.0.png, alg2: 0.0
+Dom Str_MABMAB_0.5_0.5.png, alg1: 0.004960000000000002
+Dom Str_MABMAB_0.5_0.5.png, alg2: 0.007640000000000003
+Dom Str_MABMAB_0.1_1.0.png, alg1: 0.007080000000000002
+Dom Str_MABMAB_0.1_1.0.png, alg2: 1.0039199999999977
+Dom Str_MABFTL_1.0_inf (FTL).png, alg1: 0.9960799999999994
+Dom Str_MABFTL_1.0_inf (FTL).png, alg2: 0.0
+Dom Str_MABMAB_0_1.0.png, alg1: 0.994
+Dom Str_MABMAB_0_1.0.png, alg2: 0.9945200000000004
+Pure Nash_MABMAB_0.5_0.5.png, alg1: 0.012839999999999997
+Pure Nash_MABMAB_0.5_0.5.png, alg2: 0.01048
+Pure Nash_MABMAB_0.1_1.0.png, alg1: 0.3137491677808849
+Pure Nash_MABMAB_0.1_1.0.png, alg2: 0.9392729211738772
+Pure Nash_MABFTL_1.0_inf (FTL).png, alg1: 0.9243866144791808
+Pure Nash_MABFTL_1.0_inf (FTL).png, alg2: 0.26839999999999997
+Pure Nash_MABMAB_0_1.0.png, alg1: 0.9330566596183434
+Pure Nash_MABMAB_0_1.0.png, alg2: 0.9368665600980408
+Any Nash_MABMAB_0.5_0.5.png, alg1: 0.06942592232914993
+Any Nash_MABMAB_0.5_0.5.png, alg2: 0.06677141951461779
+Any Nash_MABMAB_0.1_1.0.png, alg1: 0.36329707054974
+Any Nash_MABMAB_0.1_1.0.png, alg2: 0.8584407290748491
+Any Nash_MABFTL_1.0_inf (FTL).png, alg1: 0.879171135066243
+Any Nash_MABFTL_1.0_inf (FTL).png, alg2: 0.3749868026355111
+Any Nash_MABMAB_0_1.0.png, alg1: 0.860669154188545
+Any Nash_MABMAB_0_1.0.png, alg2: 0.8570694350458758
+Pris Dil_MABMAB_0.5_0.5.png, alg1: 0.09944000000000006
+Pris Dil_MABMAB_0.5_0.5.png, alg2: 0.09300000000000003
+Pris Dil_MABMAB_0.1_1.0.png, alg1: 0.0002800000000000002
+Pris Dil_MABMAB_0.1_1.0.png, alg2: 0.9658799999999995
+Pris Dil_MABFTL_1.0_inf (FTL).png, alg1: 0.9641599999999986
+Pris Dil_MABFTL_1.0_inf (FTL).png, alg2: 0.0
+Pris Dil_MABMAB_0_1.0.png, alg1: 0.9611599999999991
+Pris Dil_MABMAB_0_1.0.png, alg2: 0.9661199999999984
+_EWMAB_0.5_0.5.png, alg1: 0.09944000000000006
+_EWMAB_0.5_0.5.png, alg2: 0.09300000000000003
+_EWMAB_0.1_1.0.png, alg1: 0.0002800000000000002
+_EWMAB_0.1_1.0.png, alg2: 0.9658799999999995
+_EWMAB_1.0_0.1.png, alg1: 0.9641599999999986
+_EWMAB_1.0_0.1.png, alg2: 0.0
+Pris Dil_EEWEW_Pris. Exploit._0.1.png, alg1: 2.0
+Pris Dil_EEWEW_Pris. Exploit._0.1.png, alg2: 1.33
+Pris Dil_EEWEW_Pris. Exploit._0.5.png, alg1: 2.0
+Pris Dil_EEWEW_Pris. Exploit._0.5.png, alg2: 1.308
+Pris Dil_EEWEW_Pris. Exploit._1.0.png, alg1: 2.0
+Pris Dil_EEWEW_Pris. Exploit._1.0.png, alg2: 1.36
+Pris Dil_EEWFTL_Pris. Exploit._inf (FTL).png, alg1: 2.0
+Pris Dil_EEWFTL_Pris. Exploit._inf (FTL).png, alg2: 1.316
+Pris Dil_EEWMAB_Pris. Exploit._0.1.png, alg1: 2.0
+Pris Dil_EEWMAB_Pris. Exploit._0.1.png, alg2: 1.35
+Pris Dil_EEWMAB_Pris. Exploit._0.5.png, alg1: 2.0
+Pris Dil_EEWMAB_Pris. Exploit._0.5.png, alg2: 1.294
+Pris Dil_EEWMAB_Pris. Exploit._1.0.png, alg1: 2.0
+Pris Dil_EEWMAB_Pris. Exploit._1.0.png, alg2: 0.963719999999999
+Pris Dil_EEWFTL_Pris. Exploit._inf (FTL).png, alg1: 2.0
+Pris Dil_EEWFTL_Pris. Exploit._inf (FTL).png, alg2: 1.35
