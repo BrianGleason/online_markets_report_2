@@ -1,0 +1,48 @@
+Pris Dil_EEWEW_Pris. Exploit._0.1.png, alg1: 0.0
+Pris Dil_EEWEW_Pris. Exploit._0.1.png, alg2: 0.5186399999999995
+Pris Dil_EEWEW_Pris. Exploit._0.5.png, alg1: 0.0
+Pris Dil_EEWEW_Pris. Exploit._0.5.png, alg2: 0.27743999999999996
+Pris Dil_EEWEW_Pris. Exploit._1.0.png, alg1: 0.0
+Pris Dil_EEWEW_Pris. Exploit._1.0.png, alg2: 0.19988000000000014
+Pris Dil_EEWFTL_Pris. Exploit._inf (FTL).png, alg1: 0.0
+Pris Dil_EEWFTL_Pris. Exploit._inf (FTL).png, alg2: 0.0
+Pris Dil_EEWMAB_Pris. Exploit._0.1.png, alg1: 0.0
+Pris Dil_EEWMAB_Pris. Exploit._0.1.png, alg2: 0.6995199999999986
+Pris Dil_EEWMAB_Pris. Exploit._0.5.png, alg1: 0.0
+Pris Dil_EEWMAB_Pris. Exploit._0.5.png, alg2: 0.49979999999999947
+Pris Dil_EEWMAB_Pris. Exploit._1.0.png, alg1: 0.0
+Pris Dil_EEWMAB_Pris. Exploit._1.0.png, alg2: 0.9599999999999994
+Pris Dil_EEWFTL_Pris. Exploit._inf (FTL).png, alg1: 0.0
+Pris Dil_EEWFTL_Pris. Exploit._inf (FTL).png, alg2: 0.0
+Pris Dil_EEWEW_Pris. Exploit._0.1.png, alg1: 0.0
+Pris Dil_EEWEW_Pris. Exploit._0.1.png, alg2: 0.5224800000000002
+Pris Dil_EEWEW_Pris. Exploit._0.5.png, alg1: 0.0
+Pris Dil_EEWEW_Pris. Exploit._0.5.png, alg2: 0.27843999999999963
+Pris Dil_EEWEW_Pris. Exploit._1.0.png, alg1: 0.0
+Pris Dil_EEWEW_Pris. Exploit._1.0.png, alg2: 0.21028000000000002
+Pris Dil_EEWFTL_Pris. Exploit._inf (FTL).png, alg1: 0.0
+Pris Dil_EEWFTL_Pris. Exploit._inf (FTL).png, alg2: 0.0
+Pris Dil_EEWMAB_Pris. Exploit._0.1.png, alg1: 0.0
+Pris Dil_EEWMAB_Pris. Exploit._0.1.png, alg2: 0.710359999999998
+Pris Dil_EEWMAB_Pris. Exploit._0.5.png, alg1: 0.0
+Pris Dil_EEWMAB_Pris. Exploit._0.5.png, alg2: 0.5055200000000001
+Pris Dil_EEWMAB_Pris. Exploit._1.0.png, alg1: 0.0
+Pris Dil_EEWMAB_Pris. Exploit._1.0.png, alg2: 0.951119999999999
+Pris Dil_EEWFTL_Pris. Exploit._inf (FTL).png, alg1: 0.0
+Pris Dil_EEWFTL_Pris. Exploit._inf (FTL).png, alg2: 0.0
+Pris Dil_EEWEW_Pris. Exploit._0.1.png, alg1: 0.0
+Pris Dil_EEWEW_Pris. Exploit._0.1.png, alg2: 0.5338400000000003
+Pris Dil_EEWEW_Pris. Exploit._0.5.png, alg1: 0.0
+Pris Dil_EEWEW_Pris. Exploit._0.5.png, alg2: 0.2587599999999998
+Pris Dil_EEWEW_Pris. Exploit._1.0.png, alg1: 0.0
+Pris Dil_EEWEW_Pris. Exploit._1.0.png, alg2: 0.19939999999999988
+Pris Dil_EEWFTL_Pris. Exploit._inf (FTL).png, alg1: 0.0
+Pris Dil_EEWFTL_Pris. Exploit._inf (FTL).png, alg2: 0.0
+Pris Dil_EEWMAB_Pris. Exploit._0.1.png, alg1: 0.0
+Pris Dil_EEWMAB_Pris. Exploit._0.1.png, alg2: 0.6949999999999978
+Pris Dil_EEWMAB_Pris. Exploit._0.5.png, alg1: 0.0
+Pris Dil_EEWMAB_Pris. Exploit._0.5.png, alg2: 0.5079199999999994
+Pris Dil_EEWMAB_Pris. Exploit._1.0.png, alg1: 0.0
+Pris Dil_EEWMAB_Pris. Exploit._1.0.png, alg2: 0.9543599999999998
+Pris Dil_EEWFTL_Pris. Exploit._inf (FTL).png, alg1: 0.0
+Pris Dil_EEWFTL_Pris. Exploit._inf (FTL).png, alg2: 0.0
